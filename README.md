@@ -1,33 +1,33 @@
-# <p align="center">Olá, eu sou a Isabela Paiva! 👋</p>
+# <p align="center">Hi, I'm Isabela Paiva! 👋</p>
 
 <div align="center">
   <img src="assets/cyber_banner.svg" alt="Cyber Banner" width="100%">
   
   <br/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Inovação+%26+Propósito;Curiosidade+%2B+Código" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Innovation+%26+Purpose;Curiosity+%2B+Code" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🚀 Sobre mim | About Me
+### 🚀 About Me | Sobre mim
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <strong>PT-BR:</strong><br/>
-      Sou uma entusiasta da tecnologia e Full Stack Developer apaixonada por transformar ideias em soluções práticas. Com experiência em HTML, CSS, JavaScript, Python e SQL, busco unir curiosidade e propósito para gerar impacto positivo. Além do código, atuo como monitora acadêmica e participo de iniciativas de desenvolvimento sustentável.
+      <strong>English:</strong><br/>
+      I am a technology enthusiast and Full Stack Developer passionate about turning ideas into practical solutions. With experience in HTML, CSS, JavaScript, Python, and SQL, I combine curiosity and purpose to create positive impact. Beyond coding, I serve as an academic mentor and participate in sustainable development initiatives.
     </td>
     <td width="50%" valign="top">
-      <strong>EN:</strong><br/>
-      I am a technology enthusiast and Full Stack Developer passionate about turning ideas into practical solutions. With experience in HTML, CSS, JavaScript, Python, and SQL, I combine curiosity and purpose to create positive impact. Beyond coding, I serve as an academic mentor and participate in sustainable development initiatives.
+      <strong>Português:</strong><br/>
+      Sou uma entusiasta da tecnologia e Full Stack Developer apaixonada por transformar ideias em soluções práticas. Com experiência em HTML, CSS, JavaScript, Python e SQL, busco unir curiosidade e propósito para gerar impacto positivo. Além do código, atuo como monitora acadêmica e participo de iniciativas de desenvolvimento sustentável.
     </td>
   </tr>
 </table>
 
 ---
 
-### 💻 Minhas Tecnologias | Tech Stack
+### 💻 Tech Stack | Tecnologias
 
 <div align="center">
   
@@ -49,16 +49,16 @@
 
 ---
 
-### 🌟 Experiência & Valores | Experience & Values
+### 🌟 Experience & Values | Experiência
 
-- 🛠 **Full Stack Development**: Foco em integração front-end/back-end e soluções escaláveis.
-- 🤝 **Liderança Colaborativa**: Experiência como monitora, facilitando o aprendizado e comunicação.
-- 🌱 **Impacto Social**: Engajada em projetos de tecnologia para desenvolvimento sustentável.
-- 📈 **Mindset de Crescimento**: Aprendizado contínuo e busca por excelência técnica.
+- 🛠 **Full Stack Development**: Focusing on front-end/back-end integration and scalable solutions.
+- 🤝 **Collaborative Leadership**: Experience as an academic mentor, facilitating learning and communication.
+- 🌱 **Social Impact**: Actively engaged in technology projects for sustainable development.
+- 📈 **Growth Mindset**: Constant learning and pursuit of technical excellence.
 
 ---
 
-### 📫 Vamos Conversar? | Let's Connect
+### 📫 Let's Connect | Vamos Conversar?
 
 <div align="center">
   <a href="mailto:isabelapaivanovais@gmail.com">
@@ -79,5 +79,5 @@
 <br/>
 
 <div align="center">
-  <sub>Feito com ❤️ por Isabela Paiva</sub>
+  <sub>Made with ❤️ by Isabela Paiva</sub>
 </div>
