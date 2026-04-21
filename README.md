@@ -1,7 +1,9 @@
 # Olá, eu sou a Isabela Paiva! 👋
 
 <div align="center">
-  <img src="assets/header.png" alt="Isabela Paiva Header" width="100%">
+  <img src="./assets/cyber_banner.svg" alt="Cyber Banner" width="100%">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=9C27B0&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Inova%C3%A7%C3%A3o+%26+Prop%C3%B3sito;Curiosidade+%2B+Código" alt="Typing SVG" />
 </div>
 
 ---
@@ -58,4 +60,3 @@ I am a technology enthusiast and Full Stack Developer passionate about turning i
 <div align="center">
   <sub></sub>
 </div>
-
