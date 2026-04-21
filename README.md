@@ -47,9 +47,7 @@ Sou uma entusiasta da tecnologia e Full Stack Developer apaixonada por transform
 
 ---
 
-<div align="center">
-  <img src="assets/contact_animation.svg" width="100%" />
-</div>
+### 📫 Vamos Conversar?
 
 <div align="center">
   <a href="mailto:isabelapaivanovais@gmail.com">
