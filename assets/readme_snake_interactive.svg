@@ -1,0 +1,56 @@
+<svg width="1000" height="200" viewBox="0 0 1000 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    /* The Snake Body */
+    .snake-head { 
+      fill: #00d2ff; 
+      transition: all 0.3s cubic-bezier(0.18, 0.89, 0.32, 1.28); 
+      filter: drop-shadow(0 0 8px #00d2ff);
+    }
+    
+    /* Grid Hover Logic */
+    /* We create invisible zones. When hovered, they move the snake. */
+    .zone { fill: transparent; pointer-events: all; }
+    
+    #z1:hover ~ .snake-head { transform: translate(100px, 50px); }
+    #z2:hover ~ .snake-head { transform: translate(300px, 120px); }
+    #z3:hover ~ .snake-head { transform: translate(500px, 40px); }
+    #z4:hover ~ .snake-head { transform: translate(700px, 150px); }
+    #z5:hover ~ .snake-head { transform: translate(900px, 80px); }
+    
+    #z6:hover ~ .snake-head { transform: translate(200px, 160px); }
+    #z7:hover ~ .snake-head { transform: translate(400px, 90px); }
+    #z8:hover ~ .snake-head { transform: translate(600px, 130px); }
+    #z9:hover ~ .snake-head { transform: translate(800px, 30px); }
+    
+    /* Default idle animation if not hovered */
+    .snake-head {
+      animation: idle 4s ease-in-out infinite alternate;
+    }
+    @keyframes idle {
+      from { transform: translate(100px, 100px); }
+      to { transform: translate(900px, 100px); }
+    }
+    :has(.zone:hover) .snake-head { animation: none; }
+  </style>
+
+  <rect width="1000" height="200" fill="#050a14" rx="10" />
+  
+  <!-- Interactive Zones (Invisible) -->
+  <rect id="z1" class="zone" x="0" y="0" width="200" height="100" />
+  <rect id="z2" class="zone" x="200" y="0" width="200" height="100" />
+  <rect id="z3" class="zone" x="400" y="0" width="200" height="100" />
+  <rect id="z4" class="zone" x="600" y="0" width="200" height="100" />
+  <rect id="z5" class="zone" x="800" y="0" width="200" height="100" />
+  
+  <rect id="z6" class="zone" x="0" y="100" width="250" height="100" />
+  <rect id="z7" class="zone" x="250" y="100" width="250" height="100" />
+  <rect id="z8" class="zone" x="500" y="100" width="250" height="100" />
+  <rect id="z9" class="zone" x="750" y="100" width="250" height="100" />
+
+  <!-- The Snake -->
+  <circle class="snake-head" cx="0" cy="0" r="10" />
+  <circle class="snake-head" cx="0" cy="0" r="6" opacity="0.6" style="transition-delay: 0.05s;" />
+  <circle class="snake-head" cx="0" cy="0" r="4" opacity="0.3" style="transition-delay: 0.1s;" />
+
+  <text x="50%" y="105" text-anchor="middle" fill="white" font-family="sans-serif" font-weight="bold" opacity="0.1" font-size="20">PASSE O MOUSE AQUI</text>
+</svg>
