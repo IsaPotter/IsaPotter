@@ -37,18 +37,7 @@ I am a technology enthusiast and Full Stack Developer passionate about turning i
 - 🌱 **Impacto Social**: Participação ativa em projetos voltados ao desenvolvimento sustentável.
 - 📈 **Comprometimento**: Foco constante em aprendizado, resultados e ambientes inovadores.
 
----
 
-### 📊 GitHub Stats
-
-<!-- REMINDER: Replace 'YOUR_USERNAME' with your actual GitHub username below -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaPotter&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaPotter&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ### 📫 Vamos Conversar? | Let's Connect
 
