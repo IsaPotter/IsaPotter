@@ -12,7 +12,7 @@
 
 ### 🚀 Sobre mim
 
-Sou uma entusiasta da tecnologia e Full Stack Developer apaixonada por transformar ideias em soluções práticas. Com experiência em HTML, CSS, JavaScript, Python e SQL, busco unir curiosidade e propósito para gerar impacto positivo. Além do código, atuo como monitora acadêmica e participo de iniciativas de desenvolvimento sustentável.
+Sou uma entusiasta da tecnologia e Backend Developer apaixonada por transformar ideias em soluções práticas. Com experiência em HTML, CSS, JavaScript, Python e SQL, busco unir curiosidade e propósito para gerar impacto positivo. Além do código, atuo como monitora acadêmica e participo de iniciativas de desenvolvimento sustentável.
 
 ---
 
@@ -40,7 +40,7 @@ Sou uma entusiasta da tecnologia e Full Stack Developer apaixonada por transform
 
 ### 🌟 Experiência & Valores
 
-- 🛠 **Desenvolvimento Full Stack**: Foco em integração front-end/back-end e soluções práticas.
+- 🛠 **Desenvolvimento Backend**: Foco em em Python e Node.js e soluções práticas.
 - 🤝 **Liderança Colaborativa**: Atuação como monitora acadêmica, facilitando o aprendizado.
 - 🌱 **Impacto Social**: Participação em projetos de tecnologia voltados ao desenvolvimento sustentável.
 - 📈 **Aprendizado Contínuo**: Busca constante por novos conhecimentos e excelência técnica.
