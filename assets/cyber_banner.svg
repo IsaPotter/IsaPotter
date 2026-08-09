@@ -28,7 +28,7 @@
 
   <!-- Text Content -->
   <text x="50%" y="150" text-anchor="middle" class="title">
-    ISABELA PAIVA
+    ISABELA
     <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite" />
   </text>
   <text x="50%" y="190" text-anchor="middle" class="subtitle">
