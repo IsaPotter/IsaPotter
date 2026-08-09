@@ -1,4 +1,4 @@
-# <p align="center">Olá, eu sou a Isabela Paiva! 👋</p>
+# <p align="center">Olá, eu sou a Isabela! 👋</p>
 
 <div align="center">
   <img src="assets/cyber_banner.svg" alt="Cyber Banner" width="100%">
@@ -70,5 +70,5 @@ Sou uma entusiasta da tecnologia e Backend Developer apaixonada por transformar 
 <br/>
 
 <div align="center">
-  <sub>Feito com ❤️ por Isabela Paiva</sub>
+  <sub>Feito com ❤️ por Isabela</sub>
 </div>
