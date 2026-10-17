@@ -1,18 +1,18 @@
-# <p align="center">Olá, eu sou a Isabela! 👋</p>
+# <p align="center">Olá, eu sou a Isa! 👋</p>
 
 <div align="center">
   <img src="assets/cyber_banner.svg" alt="Cyber Banner" width="100%">
   
   <br/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Inovação+%26+Propósito;Curiosidade+%2B+Código" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Analista+de+Sistemas;Inovação+%26+Propósito;Curiosidade+%2B+Código" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 🚀 Sobre mim
 
-Sou uma entusiasta da tecnologia e Backend Developer apaixonada por transformar ideias em soluções práticas. Com experiência em HTML, CSS, JavaScript, Python e SQL, busco unir curiosidade e propósito para gerar impacto positivo. Além do código, atuo como monitora acadêmica e participo de iniciativas de desenvolvimento sustentável.
+Sou uma entusiasta da tecnologia e apaixonada por transformar ideias em soluções práticas. Com experiência em HTML, CSS, JavaScript, Python e SQL, busco unir curiosidade e propósito para gerar impacto positivo. Além do código, atuo como monitora acadêmica e participo de iniciativas de desenvolvimento sustentável.
 
 ---
 
